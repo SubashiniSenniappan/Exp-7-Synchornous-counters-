@@ -27,12 +27,9 @@ Note that each bit in this four-bit sequence toggles when the bit before it (the
 Starting with four J-K flip-flops connected in such a way to always be in the “toggle” mode, we need to determine how to connect the clock inputs in such a way so that each succeeding bit toggles when the bit before it transitions from 1 to 0.
 
 The Q outputs of each flip-flop will serve as the respective binary bits of the final, four-bit count:
-
- 
- 
-
 Four-bit “Up” Counter
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/bfce45f5-a2be-4f93-b417-2ba7c43fcebf)
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/0a16658e-46ae-4560-9589-c4c5c829fdab)
+
 
 
 ## DOWN COUNTER 
@@ -97,35 +94,39 @@ begin
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER:
 UP COUNTER:
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/37460379-9b3a-4d50-9990-faee78763f36)
 
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/29b388e4-ed9a-46d7-86a6-8e01e6ee2101)
 
 
 DOWNCOUNTER:
 
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/b4544253-b309-416d-9388-34a4e67e3a2a)
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/a554bd38-ac94-4ede-90a1-10f6204ca9ef)
+
 
 
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/8fe5a819-0dd9-450b-935a-b0bc291fc820)
+
+![242934123-cd3fbd22-8dfc-4a96-8b01-0905ddaf2397](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/ffeeae57-260e-40ad-9400-dd0290178685)
 
 DOWNCOUNTER
 
+![242934173-565a7f68-0a41-41fc-a818-ba32bce5b1ef](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/2e03670d-f2d4-4d87-a135-c52d3c213e87)
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/2e57aaa7-3e07-4993-a0a9-22f3c302ad44)
+
 
 
 
 ### TRUTH TABLE:
 UP COUNTER
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/5278b555-b587-4a1c-82e2-88ffc48a93df)
+![242934277-32e6c4c3-283d-41ec-8f1a-b4745dc1dd58](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/8b9fd121-13fe-4790-abf5-9ece676be95c)
 
 DOWN COUNTER
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/eef23382-5503-4afb-817e-5da30ff65ae7)
+
+![242934306-66ac536d-6415-466d-acbb-7f6464533cae](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/4c6e97c1-cf53-41f1-b0d1-b54d53f13b55)
 
 ### RESULTS:
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
