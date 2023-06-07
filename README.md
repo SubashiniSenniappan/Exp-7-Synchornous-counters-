@@ -95,12 +95,11 @@ begin
 
 ###  RTL LOGIC UP COUNTER AND DOWN COUNTER:
 UP COUNTER:
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/7b24e5cf-1ea8-4176-b454-50ad8e79418f)
 
 
 
 
-
+![242933952-7f9ce1ce-d254-4bf7-b6fd-c668cc5e9c72](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/7064af8a-764e-47f3-88e5-4d77df89d3d9)
 
 
 
