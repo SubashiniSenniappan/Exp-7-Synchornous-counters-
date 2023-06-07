@@ -65,8 +65,7 @@ Developed by:SUBASHINI.S
 RegisterNumber:22009344
 */
 ```
-UP COUNTER
-
+### UP COUNTER
 module sync(clk,A);
 input clk;
 output reg [0:2]A;
@@ -78,8 +77,9 @@ begin
 end 
 endmodule
 
-DOWN COUNTER
 
+
+### DOWN COUNTER
 
 module exp6a(clk,A);
 input clk;
@@ -89,8 +89,7 @@ begin
     A[0]=(((~A[1])&(~A[2]))^(A[0]));
 	 A[1]=(~A[2])^(A[1]);
 	 A[2]=1^A[2];
-end 
-endmodule 
+
 
 
 
@@ -99,7 +98,8 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER:
 UP COUNTER:
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/aa707955-8f9e-445d-9b5a-28459f0d1fb4)
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/37460379-9b3a-4d50-9990-faee78763f36)
+
 
 
 DOWNCOUNTER:
