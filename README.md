@@ -97,37 +97,24 @@ begin
 ###  RTL LOGIC UP COUNTER AND DOWN COUNTER:
 UP COUNTER:
 
-
-
-
-![242933952-7f9ce1ce-d254-4bf7-b6fd-c668cc5e9c72](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/7064af8a-764e-47f3-88e5-4d77df89d3d9)
-
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/18990f71-24f2-40e3-baac-51b062bc25c7)
 
 DOWNCOUNTER:
-
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/608b53b3-ac2e-44d4-9812-df04be708e62)
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/a8ab544c-ce88-46d2-8445-adc910a85fe9)
 
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER
-
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/f8fe46f5-c0e5-4e45-bb08-a6fdacd78a0e)
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/ebea0554-ef26-45ae-907e-e733bb6f0af6)
 
 DOWNCOUNTER
-
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/582b1876-c524-4794-b898-caeb869a3948)
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/0b690bc5-bda8-4670-a9bd-b0e1cdb0d9fd)
 
 ### TRUTH TABLE:
 UP COUNTER
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/efea7f02-945a-4463-8f2c-3b553213906a)
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/e9c60ef7-b6b4-4b7c-af71-09ccb6a45bd9)
 
 DOWN COUNTER
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/d515ce72-956e-4005-9ae6-6521437e30a4)
-
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/e4b72def-a752-40f3-adf0-c35488403c34)
 
 ### RESULTS:
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
