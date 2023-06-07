@@ -94,39 +94,33 @@ begin
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER:
 UP COUNTER:
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/f36d4427-18a2-4193-ab90-edd48e327ece)
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/0ee61925-a46a-4f72-a62c-3eb08928edc5)
 
 
 DOWNCOUNTER:
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/b4544253-b309-416d-9388-34a4e67e3a2a)
-
-
-
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/608b53b3-ac2e-44d4-9812-df04be708e62)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER
 
-![242934123-cd3fbd22-8dfc-4a96-8b01-0905ddaf2397](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/ffeeae57-260e-40ad-9400-dd0290178685)
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/f8fe46f5-c0e5-4e45-bb08-a6fdacd78a0e)
+
 
 DOWNCOUNTER
 
-![242934173-565a7f68-0a41-41fc-a818-ba32bce5b1ef](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/2e03670d-f2d4-4d87-a135-c52d3c213e87)
-
-
-
-
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/582b1876-c524-4794-b898-caeb869a3948)
 
 ### TRUTH TABLE:
 UP COUNTER
-![242934277-32e6c4c3-283d-41ec-8f1a-b4745dc1dd58](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/8b9fd121-13fe-4790-abf5-9ece676be95c)
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/efea7f02-945a-4463-8f2c-3b553213906a)
+
 
 DOWN COUNTER
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/d515ce72-956e-4005-9ae6-6521437e30a4)
 
-![242934306-66ac536d-6415-466d-acbb-7f6464533cae](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/4c6e97c1-cf53-41f1-b0d1-b54d53f13b55)
+
 
 ### RESULTS:
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
