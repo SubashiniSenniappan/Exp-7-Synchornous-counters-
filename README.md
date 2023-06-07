@@ -50,17 +50,13 @@ Step 4: Use if loop for the functionality.
 Step 5: Assign the counter_up & _down.
 Step 6: End the module
 ```
-
-
-
-
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by:SUBASHINI.S
-RegisterNumber:22009344
+RegisterNumber:212222240106
 */
-```
+
 ### UP COUNTER
 
 ```
