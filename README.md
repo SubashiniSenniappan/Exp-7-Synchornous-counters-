@@ -62,6 +62,8 @@ RegisterNumber:22009344
 */
 ```
 ### UP COUNTER
+
+
 module sync(clk,A);
 input clk;
 output reg [0:2]A;
@@ -91,10 +93,15 @@ begin
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER:
+###  RTL LOGIC UP COUNTER AND DOWN COUNTER:
 UP COUNTER:
+![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/7b24e5cf-1ea8-4176-b454-50ad8e79418f)
 
-![image](https://github.com/SubashiniSenniappan/Exp-7-Synchornous-counters-/assets/119404951/0ee61925-a46a-4f72-a62c-3eb08928edc5)
+
+
+
+
+
 
 
 DOWNCOUNTER:
